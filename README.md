@@ -32,7 +32,9 @@ Why not?
     python main.py
     ```
 
-4. Edit the newly created `config.json` file with the path to your screenshots folder.
+4. [Set the default printer on Windows](https://support.microsoft.com/en-us/windows/how-to-set-a-default-printer-in-windows-10-e10cf8b8-e596-b102-bf84-c41022b5036f#:~:text=To%20choose%20a%20default%20printer,default%20printer%20on%20your%20own.)
+
+5. Edit the newly created `config.json` file with the path to your screenshots folder.
     Change any backslashes (`\`) to forward slashes (`/`) in the path.
 
     `config.json`
