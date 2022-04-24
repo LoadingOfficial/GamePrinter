@@ -2,7 +2,7 @@
 
 **Simple python script _(by simple I mean over-engineered™)_ that sends game screenshots to the printer...**
 
-_Windows only. ^(^^Sorry^ ^macOS^ ^and^ ^Linux^ ^users^^)^_
+_Windows only. (Sorry macOS and Linux users)
 
 ## FAQ
 #### How?
@@ -37,8 +37,7 @@ Why not?
     `config.json`
     ```json
     {
-    "directory": "C:/path/to/screenshots/folder"
-    }
+    "directory": "C:/path/to/screenshots/folder",
     "refresh_time": 5
     }
     ```
@@ -59,4 +58,4 @@ Why not?
 ## License
 This project has the _I don't give a fuck what you do with the code as long as you credit me ^©^ ^patent^ ^pending^_ license.
 
-Feel free to screenshot!
+> Feel free to screenshot!
