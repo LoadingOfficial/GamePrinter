@@ -7,7 +7,7 @@ _Windows only. (Sorry macOS and Linux users)
 
 ## FAQ
 #### How?
-The script checks for the latest screenshot in a specified folder and sends it to the printer. It works on my _Epson Ecotank L3110_ printer. and I don't know if it works on other printers.
+The script checks for the latest screenshot in a specified folder and sends it to the printer. It works on my _Epson Ecotank L3110_ printer and I don't know if it works on other printers.
 
 #### Why?
 ~~Because it's fun.~~
