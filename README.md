@@ -1,3 +1,4 @@
+![Game Printer logo](logo.svg) 
 # **GamePrinter**
 
 **Simple python script _(by simple I mean over-engineered™)_ that sends game screenshots to the printer...**
@@ -6,7 +7,7 @@ _Windows only. (Sorry macOS and Linux users)
 
 ## FAQ
 #### How?
-The script checks for the latest screenshot in a specified folder and sends it to the printer.
+The script checks for the latest screenshot in a specified folder and sends it to the printer. It works on my _Epson Ecotank L3110_ printer. and I don't know if it works on other printers.
 
 #### Why?
 ~~Because it's fun.~~
@@ -55,7 +56,11 @@ Why not?
 - [ ] Clean up the code
 - [ ] Optimize the way I detect new files
 
-## License
-This project has the _I don't give a fuck what you do with the code as long as you credit me ^©^ ^patent^ ^pending^_ license.
+(probably will never happen because I'm lazy)
 
-> Feel free to screenshot!
+## License
+This project has the _I don't give a fuck what you do with the code as long as you credit me © [patent pending]_ license.
+
+> This repo goes hard, feel free to screenshot!
+
+![Made with love by Loading Official](signature.png)
