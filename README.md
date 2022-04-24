@@ -3,7 +3,7 @@
 
 **Simple python script _(by simple I mean over-engineered™)_ that sends game screenshots to the printer...**
 
-_Windows only. (Sorry macOS and Linux users)
+_Windows only. (Sorry macOS and Linux users)_
 
 ## FAQ
 #### How?

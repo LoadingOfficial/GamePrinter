@@ -29,6 +29,8 @@ def image(image_file = "null", rotate = "True"):
             image = image.rotate(90, expand = 1)
     elif rotate == "False":
         pass
+    else:
+        print("Invalid rotation value")
 
     document = win32ui.CreateDC()
     document.CreatePrinterDC(printer)
