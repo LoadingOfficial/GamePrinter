@@ -19,12 +19,12 @@ Why not?
 
 1. Clone the repository.
     ```bash
-    git clone <repo name>
+    git clone https://github.com/LoadingOfficial/GamePrinter/
     ```
 
 2. Navigate into the directory
     ```bash
-    cd "<repo name>-master"
+    cd "GamePrinter-master"
     ```
 
 3. Install the dependencies
