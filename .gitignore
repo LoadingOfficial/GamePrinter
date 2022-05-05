@@ -1,2 +1,3 @@
-/config.json
+/.vscode
+/resources/configuration/GamePrinter.json
 /__pycache__
