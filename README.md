@@ -13,6 +13,9 @@ The script checks for the latest screenshot in a specified folder and sends it t
 ~~Because it's fun.~~
 Why not?
 
+## Screenshot
+![Game Printer logo](https://i.imgur.com/GkgxumM.png)
+
 ## Installation
 
 0. Install [Python](https://python.org/)  on your system
