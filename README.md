@@ -1,4 +1,4 @@
-![Game Printer logo](resources/icons/GamePrinter.png)
+![GamePrinter's logo](resources/icons/GamePrinter.png)
 # **GamePrinter**
 
 **Automatically print game screenshots because why not...**
@@ -14,7 +14,7 @@ The script checks for the latest screenshot in a specified folder and sends it t
 Why not?
 
 ## Screenshot
-![Game Printer logo](https://i.imgur.com/Prblgi7.png)
+![GamePrinter's GUI](https://i.imgur.com/Prblgi7.png)
 
 ## Installation
 
