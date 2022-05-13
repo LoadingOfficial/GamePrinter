@@ -14,7 +14,7 @@ The script checks for the latest screenshot in a specified folder and sends it t
 Why not?
 
 ## Screenshot
-![Game Printer logo](https://i.imgur.com/GkgxumM.png)
+![Game Printer logo](https://i.imgur.com/Prblgi7.png)
 
 ## Installation
 
